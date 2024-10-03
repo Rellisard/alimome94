@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comics>
+    <comic>
+        <titol>the amazing spider-man</titol>
+        <autor>stan lee i steve ditko</autor>
+        <any_de_publicació>1963</any_de_publicació>
+        <editorial>marvel comics</editorial>
+    </comic>
+    <comic>
+        <titol>batman</titol>
+        <autor>frank miller i david mazzcchelli</autor>
+        <any_de_publicació>1987</any_de_publicació>
+        <editorial>DC comics</editorial>
+        <genere>superheroi</genere>
+    </comic>
+    <comic>
+        <titol>x-men</titol>
+        <autor>stan lee i jack kirbi</autor>
+    </comic>
+    
+</comics>
